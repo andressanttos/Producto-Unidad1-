@@ -1,11 +1,11 @@
 # Producto Unidad 1 
 1. OBJETIVOS
 
-•
+ • Comprender el método de la corriente de lazo, y poder establecer una relación entre el uso de la Ley de Ohm y las Leyes de Kirchhoff   con   ésta, además   de   los conceptos   básicos del   análisis de circuitos.
+ 
+ •	Aplicar el método de la corriente de lazo para determinar las corrientes en los elementos de un circuito.
 
-• 
-
-• 
+• Utilizar el método de la corriente en ramas para determinar las corrientes o voltajes desconocidos en un circuito utilizando las leyes de voltajes y corrientes de Kirchhoff.
 
 • 
 
