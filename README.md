@@ -33,10 +33,6 @@
 
 ![](https://github.com/andressanttos/Producto-Unidad1-/blob/main/img/diagrama2.png)
 
-*MÉTODO DE LA CORRIENTE EN TRAYECTORIAS CERRADAS*
-
-![]()
-
 *MÉTODO DEL VOLTAJE EN NODOS* 
 
 ![]()
