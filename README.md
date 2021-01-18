@@ -31,9 +31,11 @@
 
 ![](https://github.com/andressanttos/Producto-Unidad1-/blob/main/img/diagrama1.png)
 
+*MÉTODO DE LA CORRIENTE EN NODOS*
+
 ![](https://github.com/andressanttos/Producto-Unidad1-/blob/main/img/diagrama2.png)
 
-*MÉTODO DEL VOLTAJE EN NODOS* 
+ 
 
 ![]()
 
