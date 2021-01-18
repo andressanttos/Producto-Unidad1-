@@ -19,6 +19,9 @@
 
 ![](im)
 
+![](https://github.com/andressanttos/Producto-Unidad1-/blob/main/img/marco1.png)
+
+![](https://github.com/andressanttos/Producto-Unidad1-/blob/main/img/marco2.png)
 
 3. Diagramas
 
@@ -26,7 +29,9 @@
 
 *MÉTODO DE LA CORRIENTE EN RAMAS*
 
-![]()
+![](https://github.com/andressanttos/Producto-Unidad1-/blob/main/img/diagrama1.png)
+
+![](https://github.com/andressanttos/Producto-Unidad1-/blob/main/img/diagrama2.png)
 
 *MÉTODO DE LA CORRIENTE EN TRAYECTORIAS CERRADAS*
 
