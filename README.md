@@ -39,7 +39,9 @@
 
 4. Explicación
 
-![]()
+![](https://github.com/andressanttos/Producto-Unidad1-/blob/main/img/ejercicio%201.png)
+
+![](https://github.com/andressanttos/Producto-Unidad1-/blob/main/img/ejercicio%202.png)
 
 
 5. Conclusiones
