@@ -53,9 +53,12 @@
 
 • Este proyecto es muy importante para nosotros, porque no solo aplicamos los conocimientos adquiridos en esta parte del trabajo, sino que también utilizamos toda la experiencia previa en circuitos electrónicos.
 
-•	
+•	El método de resolución por ramas y por lazos junto a las Leyes de Kirchhoff y las Leyes de Ohm son de mucha ayuda al resolver problemas de circuitos ya que gracias a todas estas nos facilita el cálculo al tratar de buscar lo que nos pide un problema ya sea el voltaje o la corriente.
+
+•	Los métodos de análisis de ramas y lazos son herramientas que permiten aplicar de una forma organizada las Leyes de Kirchhoff (KVL KCL) las cuales nos ayudan a resolver problemas complejos con un número de incógnitas y ecuaciones linealmente independientes.
 
 •	
+
 
 6. Bibliografía 
 
