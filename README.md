@@ -18,27 +18,29 @@
 
 2. MARCO TEÓRICO
 
-![](im)
+![](img/marco3.jpeg)
 
 ![](https://github.com/andressanttos/Producto-Unidad1-/blob/main/img/marco1.png)
 
 ![](https://github.com/andressanttos/Producto-Unidad1-/blob/main/img/marco2.png)
 
+![](img/marco4.jpg)
+
 3. Diagramas
 
 *ECUACIONES SIMULTÁNEAS EN EL ANÁLISIS DE CIRCUITOS* 
+
+![](img/diagrama3.png)
 
 *MÉTODO DE LA CORRIENTE EN RAMAS*
 
 ![](https://github.com/andressanttos/Producto-Unidad1-/blob/main/img/diagrama1.png)
 
-*MÉTODO DE LA CORRIENTE EN NODOS*
-
 ![](https://github.com/andressanttos/Producto-Unidad1-/blob/main/img/diagrama2.png)
 
+*MÉTODO DE LA CORRIENTE EN NODOS*
  
-
-![]()
+![](img/diagrama4.png)
 
 4. Explicación
 
