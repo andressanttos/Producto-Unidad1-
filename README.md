@@ -64,6 +64,13 @@
 
 •	Floyd Thomas L, “Principios de Circuitos Eléctricos”, 8 ed. 2007 .Pearson Educación de México, S.A. de C.V. México, pp. 281-333.
 
+A. (2019, 13 agosto). Método de la corriente por ramas. La fisica y quimica. https://lafisicayquimica.com/metodo-de-corriente-de-rama/#:%7E:text=La%20primera%20y%20m%C3%A1s%20directa,leyes%20de%20Kirchhoff%20y%20Ohm’s%20.
+
+PantalonsCuadrados, A. A. D. (2014, 4 junio). Metodo de Las Corrientes de Ramas. Scribd. https://es.scribd.com/doc/228082904/Metodo-de-Las-Corrientes-de-Ramas
+
+EcuRed. (2013, 11 julio). Método de las corrientes de mallas - EcuRed. https://www.ecured.cu/M%C3%A9todo_de_las_corrientes_de_mallas
+
+C. (2021, 8 enero). Método de mallas – análisis de circuitos. dademuchconnection. https://dademuch.com/2019/11/05/metodo-de-mallas-analisis-de-circuitos/
 
 7. Anexos
 
